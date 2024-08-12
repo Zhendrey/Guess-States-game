@@ -1,0 +1,65 @@
+body{
+    background-color: lightblue;
+}
+.MainName{
+    font-size: 50px;
+    left: 650px;
+    top: 200px;
+    color: red;
+    position: absolute;
+}.ClassicMode{
+    font-size: 25px;
+    left: 600px;
+    top: 450px;
+    width: 200px;
+    height: 100px;
+    background-color: darkred;
+    color:white;
+    position: absolute;
+}.OneStateMode{
+    font-size: 25px;
+    left: 900px;
+    top: 450px;
+    width: 200px;
+    height: 100px;
+    background-color: darkred;
+    color:white;
+    position: absolute;
+}.RandomColor{
+    font-size: 25px;
+    left: 750px;
+    top: 750px;
+    width: 200px;
+    height: 100px;
+    background-color: darkred;
+    color:white;
+    position: absolute;
+}.Year{
+    top: 1450px;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+}.Capital{
+    top: 1450px;
+    left: 600px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+}.Fact{
+    top: 1450px;
+    left: 900px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+}.Nickname{
+    top: 1450px;
+    left: 1200px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+}

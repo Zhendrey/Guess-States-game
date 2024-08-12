@@ -1,0 +1,99 @@
+body{
+    background-color: rgb(20, 56, 148);
+}.StateName{
+    left: 750px;
+    top: 60px;
+    color: gray;
+    font-size: 60px;
+    position: absolute;
+}.YearBox{
+    left: 100px;
+    top: 250px;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    position: absolute;
+}.CapitalBox{
+    left: 500px;
+    top: 250px;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    position: absolute;
+}.FactBox{
+    left: 900px;
+    top: 250px;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    position: absolute;
+}.NicknameBox{
+    left: 1300px;
+    top: 250px;
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    position: absolute;
+}.TrueStateName{
+    color: rgb(20, 56, 148);
+    position: absolute;
+}.Answer{
+    top: 500px; 
+    left: 470px;
+    width: 700px;
+    height: 100px;
+    color: black;
+    background-color: red;
+    position: absolute;
+}.Submit{
+    top: 500px;
+    left: 1250px;
+    position: absolute;
+}.Finish{
+    top: 525px;
+    left: 1250px;
+    position: absolute;
+}.Score{
+    font-size: 35px;
+    top: 50px;
+    left: 1250px;
+    color: yellow;
+    position: absolute;
+}.ScoreInput{
+    top: 2px;
+    left: 120px;
+    color: yellow;
+    position: absolute;
+}.EndScore{
+    top: 2px;
+    left: 140px;
+    color: yellow;
+    position: absolute
+}.ResultName{
+    font-size: 80px;
+    top: 550px;
+    left: 700px;
+    position: absolute;
+}.Result{
+    font-size: 60px;
+    top: 745px;
+    left: 750px;
+    position: absolute;
+}.Status{
+    font-size: 30px;
+    top: 825px;
+    left: 250px;
+    position: absolute;
+}.FinishGameAnnoucment{
+    font-size: 15px;
+    left: 1200px;
+    top: 575px;
+    color: red;
+    position: absolute;
+}.ClassicModeName{
+    font-size: 50px;
+    left: 50px;
+    top: 675px;
+    color: yellow;
+    position: absolute;
+}
